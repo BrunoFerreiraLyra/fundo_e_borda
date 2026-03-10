@@ -1,4 +1,14 @@
 export const metadata = {
-  title: 'fundo e bordas',
-  description: 'exemplo de fundo e bordas',
+  title: "Meu Site",
+  description: "Projeto Next.js",
+};
+
+export default function RootLayout({ children }) {
+  return (
+    <html lang="pt-br">
+      <body>
+        {children}
+      </body>
+    </html>
+  );
 }
