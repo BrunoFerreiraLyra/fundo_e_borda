@@ -1,5 +1,5 @@
 .fundo-imagem {
-  background-image: url ('image.png');
+  background-image: url ('/image.png');
   
 
   background-size: cover; 
