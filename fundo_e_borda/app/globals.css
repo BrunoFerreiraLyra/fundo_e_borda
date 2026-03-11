@@ -55,3 +55,36 @@
   text-decoration: none; 
   color: blue; 
 }
+.vitrine-produtos {
+  display: flex; 
+  justify-content: center; 
+  gap: 20px; 
+  padding: 40px;
+}
+
+
+.produto-verde {
+  background-color: green;
+  color: white; 
+  padding: 15px;
+  text-align: center;
+  width: 200px; 
+  border-radius: 8px; 
+}
+
+
+.img-calcado {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+
+.rodape-cinza {
+  background-color: gray; 
+  color: white;
+  text-align: center;
+  padding: 30px;
+  margin-top: 50px; 
+}

@@ -19,6 +19,9 @@ export default function Home() {
       <Link href="/exerciciop246" style={{ color: 'blue', textDecoration: 'underline' }}>
           Ir para o Terceiro Exercício (página 246)
         </Link>
+        <Link href="/exerciciop263" style={{ color: 'blue', textDecoration: 'underline' }}>
+          Ir para o Quarto Exercício (página 263)
+        </Link>
     </main>
   );
 }
