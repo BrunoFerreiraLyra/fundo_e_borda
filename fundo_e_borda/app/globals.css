@@ -20,3 +20,25 @@
   padding: 15px; 
   color: white; 
 }
+.caixa-vermelha {
+  background-color: red;
+  width: 700px;
+  padding: 0px;
+  
+  margin: 0 auto; 
+  
+  color: white;
+  text-align: center; 
+}
+
+.caixa-verde {
+  background-color: green;
+  width: 700px;
+  padding: 25px;
+  
+
+  margin: 0 auto;
+  
+  color: white;
+  text-align: center;
+}
