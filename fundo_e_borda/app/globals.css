@@ -42,3 +42,16 @@
   color: white;
   text-align: center;
 }
+
+.texto-sublinhado {
+  font-family: Arial, sans-serif; 
+  text-decoration: underline; 
+}
+
+
+.meus-links a {
+  font-family: "Times New Roman", Times, serif; 
+  font-weight: bold; 
+  text-decoration: none; 
+  color: blue; 
+}
