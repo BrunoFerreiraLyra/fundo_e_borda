@@ -7,8 +7,13 @@ export default function Home() {
       <p>Escolha um dos links abaixo para navegar:</p>
 
       <Link href="/exerciciop210" style={{ color: 'blue', textDecoration: 'underline' }}>
-        Ir para o Primeiro Exercício de CSS
+        Ir para o Primeiro Exercício de CSS (página 210)
       </Link>
+<br />
+
+      <Link href="/exerciciop231" style={{ color: 'blue', textDecoration: 'underline' }}>
+          Ir para o Segundo Exercício (página 231)
+        </Link>
     </main>
   );
 }
